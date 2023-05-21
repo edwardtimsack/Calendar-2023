@@ -51,7 +51,7 @@ main{
 .one{
     /* background-color: aqua; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 h1{
     text-align: center;
@@ -62,23 +62,23 @@ h1{
 .two{
     /* background-color: blue; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 
 .three{
     /* background-color: blueviolet; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 .four{
     /* background-color: brown; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 .five{
     /* background-color: chartreuse; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 .six{
     /* background-color: chocolate; */
@@ -88,32 +88,32 @@ h1{
 .seven{
     /* background-color: violet; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 .eight{
     /* background-color: tomato; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 .nine{
     /* background-color: steelblue; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 .ten{
     /* background-color: springgreen; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 .eleven{
     /* background-color: red; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 .twelve{
     /* background-color: darkorange; */
     width: 30rem;
-    height: 205px;
+    height: 210px;
 }
 footer{
     display: flex;
